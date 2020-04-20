@@ -1,0 +1,151 @@
+{
+    "Triggers": [
+        {
+            "Name": "Tutorial",
+            "Text": "Este é um objeto de transição entre os mundos. Quando estiver em frente a ele, utilize os botões <btn1> para ir para casa, <btn2> para ir para o arcade, e <btn3> para ir para a escola."
+        },
+        {
+            "Name": "Escada Arcade Bloqueada",
+            "Text": "O segundo andar do arcade é só para pró-players. Você precisa de uma ficha especial para conseguir entrar."
+        },
+		{
+            "Name": "Porta Porao Bloqueada",
+            "Text": "Você sempre me disse que seu pai deixa o porão trancado porque não quer que você entre. Se a gente tivesse uma daquelas coisas de abrir fechadura que a gente vê na TV, a gente poderia tentar abrir, que nem nos video-games."
+        },
+		{
+            "Name": "Porta Elevador Bloqueada",
+            "Text": "Bro. O elevador fica desligado. Precisa de uma chave para ligar. Só que eu não sei onde fica."
+        },
+		{
+            "Name": "Porao Escola Bloqueado",
+            "Text": "Ou! Melhor não entrar aí, cara. Tem uma câmera aí. Vai te meter em encrenca!"
+        },
+		{
+            "Name": "Armario Zelador Bloqueado",
+            "Text": "Bro. É um cadeado de senha. E agora?"
+        },
+        {
+            "Name": "Sair da Escola",
+            "Text": "Vai matar aula, mano? A porta da escola só abre em horário de aula se for uma emergência muito séria"
+        },
+        {
+            "Name": "Abrir Sotao sem Gancho",
+            "Text": "O gancho que faz descer a escada do sótão está muito alto, eu puxaria pra você mas não tenho mãos..."
+        },
+        {
+            "Name": "Abrir Bueiro sem Pe de Cabra",
+            "Text": "É. Não. Muito pesado. Talvez se a gente tiver alguma coisa que a gente consiga fazer uma alavanca. Talvez. O que você quer fazer aí dentro também cara!?"
+        },
+        {
+            "Name": "Acessar Elevador sem Ligar Gerador",
+            "Text": "O elevador está ligado, mas depois que você acionou o alarme de incêndio a energia foi desligada. Sem energia não tem como a gente subir cara."
+        },
+        {
+            "Name": "Ligar Gerador sem Combustivel e Chave",
+            "Text": "Blue. Parece que está sem combustível. E parece que só liga com uma chave de segurança, não sei. As instruções estão em coreano."
+        },
+        {
+            "Name": "Acessar Arcade sem Dinheiro",
+            "Text": "Foi mal aí cara. Não tenho nada para te emprestar. Depois que eles começaram a cobrar na entrada o arcade não ficou mais do mesmo jeito."
+        }
+    ],
+
+    "Puzzles": [
+        {
+            "Name": "Moeda Fliperama",
+            "NItem": 0,
+            "Feedback": "Você coletou a ficha especial.",
+            "Imagem": "Ficha-Imagem"
+        },
+        {
+            "Name": "Lockpick",
+            "NItem": 1,
+            "Feedback": "Você coletou o Pé de cabra.",
+            "Imagem": "PedeCabra-Imagem"
+        },
+        {
+            "Name": "Porta Fechada",
+            "NItem": 2,
+            "Feedback": "Você arrombou uma porta.",
+            "Imagem": ""
+        },
+        {
+            "Name": "Tesoura_1",
+            "NItem": 3,
+            "Feedback": "Você coletou uma tesoura de jardim.",
+            "Imagem": "Tesoura-Imagem"
+        },
+        {
+            "Name": "Camera",
+            "NItem": 4,
+            "Feedback": "Você cortou o cabo da camera.",
+            "Imagem": ""
+        },
+        {
+            "Name": "carrinho",
+            "NItem": 5,
+            "Feedback": "Você coletou a senha do cadeado.",
+            "Imagem": "Senha-Imagem"
+        },
+        {
+            "Name": "Wardrobe",
+            "NItem": 6,
+            "Feedback": "Você coletou a chave do elevador.",
+            "Imagem": "Chave-Imagem"
+        },
+        {
+            "Name": "Elevador",
+            "NItem": 7,
+            "Feedback": "Você ligou o elevador, entre e vá para o terraço",
+            "Imagem": ""
+        },
+        {
+            "Name": "Alarme de Incendio",
+            "NItem": 8,
+            "Feedback": "Você acionou o alarme de incendio.",
+            "Imagem": "Ficha-Imagem"
+        },
+        {
+            "Name": "Gasolina",
+            "NItem": 9,
+            "Feedback": "Você coletou gasolina.",
+            "Imagem": "PedeCabra-Imagem"
+        },
+        {
+            "Name": "Dinheiro",
+            "NItem": 10,
+            "Feedback": "Você coletou dinheiro.",
+            "Imagem": ""
+        },
+        {
+            "Name": "Chave",
+            "NItem": 11,
+            "Feedback": "Você coletou uma chave.",
+            "Imagem": "Tesoura-Imagem"
+        },
+        {
+            "Name": "Gerador de energia",
+            "NItem": 12,
+            "Feedback": "Você ligou o gerador de energia.",
+            "Imagem": ""
+        },
+        {
+            "Name": "Pé de cabra",
+            "NItem": 13,
+            "Feedback": "Você coletou o pé de cabra.",
+            "Imagem": "Senha-Imagem"
+        },
+        {
+            "Name": "Gancho",
+            "NItem": 14,
+            "Feedback": "Você coletou um gancho.",
+            "Imagem": "Chave-Imagem"
+        },
+        {
+            "Name": "Fim",
+            "NItem": 15,
+            "Feedback": "",
+            "Imagem": ""
+        }
+    ]
+}
