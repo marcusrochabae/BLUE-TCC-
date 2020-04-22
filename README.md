@@ -1,2 +1,5 @@
 # BLUE (TCC)
- 
+
+Jogo criado para o trabalho de conclusão de curso da Fatec de Americana.
+
+O jogo, intitulado Blue, foi criado com o intuito de representar as dificuldades enfrentadas por uma pessoa que sofre de depressão através de analogias inseridas no contexto do jogo. Apresentado em visão 2D, de gênero puzzle, o jogador principal controla Blue, em um mundo dentro de sua própria mente, decifrando quebracabeças, com o objetivo de se restaurar memórias do passado próximo de sua vida que o colocaram neste estado. Como principais obstáculos ele enfrenta monstros, que são análogos às emoções ruins sentidas por uma pessoa depressiva, e como auxílio, o jogador pode controlar um segundo avatar, esse avatar é um orbe que ajuda o Blue nos desafios apresentados no jogo. A arte foi feita pelo aplicativo Piskel, usando a técnica de pixel art e a implementação do jogo através do software Unity, utilizando de atributos disponíveis do próprio programa, como Rigidbody, shaders e raycast. A história é contada por meio de cutscenes em formato de história em quadrinhos e a música usada é completamente autoral e faz uso de pianos, violino e violão. 
